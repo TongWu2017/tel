@@ -1,0 +1,136 @@
+{
+    "token": "TOKEN GOES HERE",
+
+    "prefix": "tel",
+    "servers": {
+ 
+    },
+    "topics": [
+        "What is the most scared you've ever been?",
+        "What is the weirdest thing you've ever eaten?",
+        "What was the most memorable place you've travelled to?",
+        "What is your favourite subject at your school?",
+        "What is your favourite genre of movies/shows?",
+        "What is your biggest fear?",
+        "How much time do you spend on electronics daily?",
+        "How much time do you spend on the Internet daily?",
+        "What is your favourite type of food?",
+        "Do you think the Metric unit system is better than the Imperial unit system?",
+        "What is your favourite flavour in food? Like spicy, salty, sweet, sour, etc.",
+        "What is the meaning of life?",
+        "Do you think the world would get replaced by robots/Artificial Intelligence?",
+        "Do you believe in a higher power?",
+        "Do you prefer using discord with keyboard and mouse or touchscreen?",
+        "Do you prefer dark more or light mode?",
+        "What is one change you would like to make for your school?",
+        "What TV shows do you like to binge?",
+        "On average, how much sleep do you get daily?",
+        "What is your favourite pastime?",
+        "What is the best time you had with your family?",
+        "What is your favourite type of smart device?",
+        "What is your favourite drink?",
+        "What is the prettiest place you've been to?",
+        "What is something you've wanted to do for a long time but never had the courage to?",
+        "Have you gotten away with something that you thought was impossible to?",
+        "What is the one superpower you would pick if you could?",
+        "If you got a billion dollars today, what would you do?",
+        "Would you rather always have internet or always have electricity?"
+   ],
+    "massnick": {
+        "605416678595100682": {
+            "563122678584573955": null,
+            "558863125030371329": "die",
+            "321162884547608576": "eat my juicey poosey",
+            "463876993772158976": "eat my juicey poosey",
+            "292953664492929025": "eat my juicey poosey",
+            "549795256057724948": "eat my juicey poosey",
+            "662990779370700831": "anne gae",
+            "584209061302763590": "eat my juicey poosey",
+            "234395307759108106": "eat my juicey poosey",
+            "535335448776671233": "eagle",
+            "704833489425662022": null,
+            "561275580071542795": "ded",
+            "731529524080148504": null,
+            "691854224673341440": "heh",
+            "204255221017214977": "eat my juicey poosey",
+            "439205512425504771": "eat my juicey poosey",
+            "716370054626934855": "Aaron B(laid)",
+            "417607807513264128": "eat my juicey poosey",
+            "247852652019318795": "eat my juicey poosey",
+            "652619852132909058": "tel.",
+            "280497242714931202": "eat my juicey poosey",
+            "477854739816775680": "yoda",
+            "470367084686213142": "eat my juicey poosey",
+            "230412739397287946": null,
+            "401490620763340812": "eat my juicey poosey",
+            "416358583220043796": null,
+            "192062688732512256": "eat my juicey poosey",
+            "618984953811566622": "eat my juicey poosey",
+            "510448896284164106": "eat my juicey poosey",
+            "457870684136275968": "eat my juicey poosey",
+            "155149108183695360": null,
+            "235148962103951360": "eat my juicey poosey",
+            "213466096718708737": "eat my juicey poosey",
+            "526041744668884993": null,
+            "454407396341841967": "eat my juicey poosey",
+            "491769129318088714": "eat my juicey poosey",
+            "324631108731928587": "eat my juicey poosey",
+            "514847969690910731": "retard",
+            "610174239496077312": null,
+            "577562214832275496": "cheese",
+            "703416291712565280": "eat my juicey poosey",
+            "511786918783090688": "eat my juicey poosey",
+            "270904126974590976": "urmumgaelolol",
+            "612275958518382593": null,
+            "235088799074484224": "urmumgaelolol",
+            "742962923328241674": null,
+            "534090915426336789": "urmumgaelolol",
+            "541987683942268929": "beans",
+            "468281173072805889": "Norman Summerton",
+            "365975655608745985": "Norman Summerton",
+            "773322526511857735": null,
+            "608688736485507083": "reckoning",
+            "298822483060981760": "🛁🪒",
+            "312317755644706818": null
+        }
+    },
+    "modlist": {
+        "hr": [
+            "541625280557482007"
+        ],
+        "mm": [
+            "736293888704118787",
+            "335894501870665730",
+            "632788650798874674",
+            "717716600752439426",
+            "532259523210117121",
+            "718887818637869058",
+            "446146720586268672"
+        ],
+        "bod": [
+            "<@541625280557482007>",
+            "<@335894501870665730>",
+            "<@632788650798874674>",
+            "<@717716600752439426>",
+            "<@532259523210117121>",
+            "<@718887818637869058>",
+            "<@446146720586268672>"
+        ],
+        "owner": [
+            "<@358998624295714816>"
+        ],
+        "739922043117764670": "768319280588390440",
+        "603653921705033767": {
+            "motm": [],
+            "intern": [],
+            "hr": [],
+            "mm": [],
+            "bod": [],
+            "owner": [
+                "710165777256546314"
+            ]
+        },
+        "774012807041646594": "774484948177911838",
+        "708122363413135511": "794063063329800214"
+    }
+}
